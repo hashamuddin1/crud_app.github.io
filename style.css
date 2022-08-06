@@ -1,0 +1,19 @@
+.main {
+    margin-top: 35px;
+}
+
+table {
+    margin-top: 15px;
+    background-color: black;
+    color: white !important;
+}
+
+button {
+    background-color: #660099 !important;
+    color: white !important;
+}
+
+.btn1 {
+    color: white !important;
+    text-decoration: none;
+}
